@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1619496854 source:c:\users\my pc\desktop\hoc tap\ran\main.cpp
+	"Header.h"
+
+1620205204 c:\users\my pc\desktop\hoc tap\ran\header.h
+	<SDL.h>
+	<iostream>
+	<Windows.h>
+	<vector>
+	<conio.h>
+	<ctime>
+	<SDL_image.h>
+	<string>
+
+1620224405 source:c:\users\my pc\desktop\hoc tap\ran\function.cpp
+	"Header.h"
+
